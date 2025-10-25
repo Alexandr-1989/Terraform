@@ -3,7 +3,7 @@
 <img width="1159" height="735" alt="Screenshot_26" src="https://github.com/user-attachments/assets/5fb27bb2-1d0f-4212-92fd-68a4aa660cd2" />
 <img width="2292" height="452" alt="Screenshot_25" src="https://github.com/user-attachments/assets/5210cafa-5a49-4760-9285-8e2f0f130efe" />
 Задание 2
-С помощью ansible подключиться к web-a и web-b , установить на них nginx.(написать нужный ansible playbook)
+#С помощью ansible подключиться к web-a и web-b , установить на них nginx.(написать нужный ansible playbook)
 
 Провести тестирование и приложить скриншоты развернутых в облаке ВМ, успешно отработавшего ansible playbook.
 <img width="1115" height="495" alt="Screenshot_24" src="https://github.com/user-attachments/assets/b1065425-f2cc-465f-8277-cdb74b768ac9" />
